@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @RelativelyFine, you can call me David.
-- 👀 I’m interested in AI and currently learning Python ML.
-- 🌱 I’m currently in second year university in my undergraduate degree on comsci.
-- 📫 How to reach me: contact RelativelyFine#0611 on discord!
+- 👀 I’m interested in AI and currently learning the Keras Library.
+- ✨ I'm also learning testing and automation with Selenium webdriver and Cucumber.
+- 🌱 I’m currently in second year university in my undergraduate degree on comsci, working at the Government of Ontario as an IT Software Developer.
+- 📫 How to reach me: contact RelativelyFine#0611 on discord or shoot me an email at 20dhc@queensu.ca.
