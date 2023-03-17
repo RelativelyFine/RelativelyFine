@@ -2,7 +2,7 @@
 - ❤️‍🔥 I’m interested Distributed Computing, and DeepNN with a focus in CNN and self-attention.
 <br />
 
-- 📚 I’m currently studying 3rd year BA. Computer Science (honours). 
+- 📚 I’m currently studying 3rd year BS. Computer Science (honours). 
 - ✨ I'm pursuing an IBM certificate in Data Science
 <br />
 
