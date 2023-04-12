@@ -13,4 +13,4 @@
 <br />
 
 - 📫 How to reach me: contact RelativelyFine#0937 on discord or shoot me an email at 20dhc@queensu.ca.
-- 🌐 Website at: [https://relativelyfine.github.io/](https://relativelyfine.github.io/)
+- 🌐 Website at: [https://relativelyfine.github.io/portfolio/](https://relativelyfine.github.io/portfolio/)
