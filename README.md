@@ -7,7 +7,7 @@
 <br />
 
 - 🎁 Founder and developer of [Sift](https://getsift.ca/)
-- 🎈 Teaching Assistant of Data Structures @Queen's University
+- 🎈 Teaching Assistant of Intro to AI @Queen's University
 - 🎉 Developer Intern at [DistributiveLabs](https://ca.linkedin.com/company/distributive) as of May 2023
 <br />
 
