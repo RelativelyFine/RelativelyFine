@@ -9,7 +9,6 @@
 - 🎁 Founder and developer of [Sift](https://getsift.ca/)
 - 🎈 Teaching Assistant of Data Structures @Queen's University
 - 🎉 Developer Intern at [DistributiveLabs](https://ca.linkedin.com/company/distributivelabs) as of May 2023
-- 🔬 Research Assistant at [RISE Labs](https://sophiaytian.com/publications.html)
 <br />
 
 - 📫 How to reach me: contact RelativelyFine#0937 on discord or shoot me an email at 20dhc@queensu.ca.
