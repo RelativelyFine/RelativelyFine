@@ -1,5 +1,5 @@
 - 👋 Hi, my name is David Courtis.
-- ❤️‍🔥 I’m interested Distributed Computing and DeepNN with a focus in CNN and self-attention.
+- ❤️‍🔥 I have a passion for uncovering the mechanisms and latent representations within neural networks and seeing how they can be applied to change its behaviour.
 <br />
 
 - 📚 I’m currently studying 4th year BS. Computer Science (honours). 
