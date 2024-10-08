@@ -8,7 +8,7 @@
 
 - 🎁 Director of NLP, Ex-PM of CV, @QMind
 - 🎈 Teaching Assistant of Intro to AI @Queen's University
-- 🎉 Software Developer Intern at [DistributiveLabs](https://ca.linkedin.com/company/distributive) as of May 2023
+- 🎉 Ex-Software Developer Intern at [DistributiveLabs](https://ca.linkedin.com/company/distributive) as of May 2023
 <br />
 
 - 📫 How to reach me: contact RelativelyFine#0937 on discord or shoot me an email at 20dhc@queensu.ca.
