@@ -2,7 +2,7 @@
 - ❤️‍🔥 I have a passion for uncovering the mechanisms and latent representations within neural networks and seeing how they can be applied to change its behaviour.
 <br />
 
-- 📚 I’m currently studying 4th year BS. Computer Science (honours). 
+- 📚 I’m currently studying 5th year BS. Computer Science in AI. 
 - ✨ My realm: analytical, curious, adaptable, proactive, knowledge-driven, musically inclined (I play piano, saxophone, and flute!)
 <br />
 
